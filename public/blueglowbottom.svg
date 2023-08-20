@@ -1,0 +1,17 @@
+<svg width="287" height="261" viewBox="0 0 287 261" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_28_78)">
+<rect x="-187" y="221" width="250" height="168" fill="#026B83"/>
+<rect x="-187" y="221" width="250" height="42" fill="#D9D9D9"/>
+<rect x="-187" y="260.75" width="250" height="42" fill="#D9D9D9"/>
+<rect x="3" y="222" width="61" height="163.75" fill="#026B83" stroke="white" stroke-width="2"/>
+<rect x="-60" y="222" width="61" height="163.75" fill="#026B83" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="252.01" y2="-1" transform="matrix(0.99996 0.00892822 -0.015871 0.999874 -187 260.75)" stroke="white" stroke-width="2"/>
+</g>
+<defs>
+<filter id="filter0_f_28_78" x="-408" y="0" width="694.032" height="610" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="110.5" result="effect1_foregroundBlur_28_78"/>
+</filter>
+</defs>
+</svg>
